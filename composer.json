@@ -9,8 +9,8 @@
     }
   ],
   "require": {
-    "php": ">=7.4",
-    "drupol/phpermutations": "dev-master"
+    "php": ">=8",
+    "drupol/phpermutations": "1.5.0"
   },
   "autoload": {
     "psr-4": {
